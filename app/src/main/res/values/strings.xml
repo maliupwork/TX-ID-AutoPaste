@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TX ID AutoPaste</string>
+    <string name="accessibility_service_label">TX ID AutoPaste Service</string>
+    <string name="accessibility_service_description">Reads transaction IDs from selected payment apps only when enabled, and pastes the verified ID into your selected Payment Panel field. Never uploads data or taps submit buttons.</string>
+    <string name="notification_channel_id">tx_id_autopaste_channel</string>
+    <string name="notification_channel_name">TX ID AutoPaste Status &amp; Confirmations</string>
+    <string name="notification_channel_description">Shows candidate ID confirmation prompts and temporary screen-scan foreground status.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "TX ID AutoPaste",
+  "description": "Privacy-first on-device transaction ID detector and safe auto-paste utility for mobile wallet and bank receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
